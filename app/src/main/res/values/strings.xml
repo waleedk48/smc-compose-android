@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SMCAndroid</string>
+    <string name="dumm_msg_rta_renew">"-We will test your vehicle and provide either the pass or fail certificate.\n-If your vehicle passes, we will provide the certificate only so you can continue with the renewal process. "</string>
+</resources>
